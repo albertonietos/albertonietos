@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Alberto. I'm located in Helsinki and currently work as an Applied Scientist at Wolt.
 <!--
 **albertonietos/albertonietos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
